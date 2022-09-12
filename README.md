@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bikash-Giri&theme=dracula)](https://git.io/streak-stats)
+
 <!--
 **Bikash-Giri/Bikash-Giri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
