@@ -1,6 +1,13 @@
 ### Hi there 👋
 
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on flutter and iOS
+- 🌱 I’m currently learning flutter and iOS
+- 👯 I’m looking to collaborate on mobile development
+- 💬 Ask me about mobile development
+- 📫 How to reach me: https://www.linkedin.com/in/bikash-giri-79925814a/
 
 ![Bikash Giri's Github stats](https://github-readme-stats.vercel.app/api?username=Bikash-Giri&show_icons=true&count_private=true&theme=radical)
 
@@ -11,10 +18,3 @@
 
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on flutter and iOS
-- 🌱 I’m currently learning flutter and iOS
-- 👯 I’m looking to collaborate on mobile development
-- 💬 Ask me about mobile development
-- 📫 How to reach me: https://www.linkedin.com/in/bikash-giri-79925814a/
