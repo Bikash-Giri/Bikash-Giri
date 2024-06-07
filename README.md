@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on flutter and iOS
 - 🌱 I’m currently learning flutter and iOS
 - 👯 I’m looking to collaborate on mobile development
