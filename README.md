@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning flutter and iOS
 - 👯 I’m looking to collaborate on mobile development
 - 💬 Ask me about mobile development
-- 📫 How to reach me: https://www.linkedin.com/in/bikash-giri-79925814a/
+- 📫 Reach me at: https://www.linkedin.com/in/bikash-giri-79925814a/
 
 
 
