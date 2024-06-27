@@ -9,6 +9,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bikash-Giri&theme=dark&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash-Giri)](https://github.com/Bikash-Giri/github-readme-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bikash-Giri&theme=dracula)](https://git.io/streak-stats)
 
 
