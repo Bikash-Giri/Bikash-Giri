@@ -7,7 +7,7 @@
 - 💬 Ask me about mobile development
 - 📫 Reach me at: https://www.linkedin.com/in/bikash-giri-79925814a/
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bikash-Giri&theme=dark&show_icons=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bikash-Giri&theme=dracula)](https://git.io/streak-stats)
 
