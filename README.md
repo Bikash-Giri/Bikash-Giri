@@ -11,8 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash-Giri&layout=compact&langs_count=8&theme=dark)](https://github.com/Bikash-Giri/github-readme-stats)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Bikash-Giri" frameborder="0"></iframe>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bikash-Giri&theme=dracula)](https://git.io/streak-stats)
 
 
