@@ -11,6 +11,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bikash-Giri&theme=dracula)](https://git.io/streak-stats)
 
+![Visitor Count](https://profile-counter.glitch.me/Bikash-Giri/count.svg)
+
+
 
 
 
