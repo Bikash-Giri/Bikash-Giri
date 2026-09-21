@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a experienced mobile developer, I have worked in android,iOS and flutter.
 
-- 🔭 I’m currently working AI/Machine Learning/Computer Vision
+- 🔭 I’m currently working as an AI Engineer in Ad Fontes Society
 - 🌱 I’m interested to learn more about Machine Learning,Data Science,Statistics.
 - 👯 I’m looking to collaborate on Machine Learning,Deep Learning,Computer Vision.
 - 💬 Ask me about mobile development both native iOS and hybrid android,iOS.
